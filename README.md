@@ -2,6 +2,4 @@
 
 Open the .exe file to run on PC or the .app file to run on Mac.
 
-Open the .xcodeproj file in xcode to run on an iOS device. 
-
 Open the .unity file in unity to run the scene on a computer.
